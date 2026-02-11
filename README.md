@@ -29,7 +29,7 @@ The goal of this analysis is to answer specific data-driven questions and extrac
 - Python
 - Pandas
 - NumPy
-- Jupyter Notebook
+- Google Collab Notebook
 
 ---
 
